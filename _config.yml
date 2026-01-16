@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Max Reith"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Max Reith"
@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Max Reith"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a a PhD student in Economics at the University of Bonn. I hold an MPhil in Economics from the University of Oxford."
+  location         : 
+  email            : max.reith@uni-bonn.de
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:max.reith@uni-bonn.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/maxreith
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
