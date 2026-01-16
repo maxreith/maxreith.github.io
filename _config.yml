@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Max Reith"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a a PhD student in Economics at the University of Bonn. I hold an MPhil in Economics from the University of Oxford."
+  bio              : ""
   location         : 
   email            : max.reith@uni-bonn.de
   links:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: https://github.com/maxreith
+      url: https://github.com/maxreith
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
